@@ -1,2 +1,2 @@
 # cambiar-estado-al-clickear-true-false-react
-Created with CodeSandbox
+![captura](https://i.imgur.com/Zw3aJOw.png)
